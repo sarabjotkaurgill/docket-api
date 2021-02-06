@@ -1,1 +1,0 @@
-REMOTE_URL="https://example.com"
