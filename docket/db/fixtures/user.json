@@ -1,0 +1,16 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "first_name": "Sriram",
+      "last_name": "Veeraghanta",
+      "username": "sriram",
+      "email": "veeraghanta.sriram@gmail.com",
+      "password": "pbkdf2_sha256$180000$MM8VXJl9Ktpv$rmOOZ00vY/wwKoFtygSJBPdLhblx+15O92Qu6UT1/CE=",
+      "is_superuser": false,
+      "is_staff": false,
+      "is_active": true
+    }
+  }
+]
